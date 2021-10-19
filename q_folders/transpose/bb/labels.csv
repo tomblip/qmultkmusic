@@ -1,0 +1,13 @@
+xmlfile,pngfile,label
+bb_C4.xml,bb_C4-1.png,D
+bb_C#4.xml,bb_C#4-1.png,E-
+bb_D4.xml,bb_D4-1.png,E
+bb_E-4.xml,bb_E-4-1.png,F
+bb_E4.xml,bb_E4-1.png,F#
+bb_F4.xml,bb_F4-1.png,G
+bb_F#4.xml,bb_F#4-1.png,G#
+bb_G4.xml,bb_G4-1.png,A
+bb_G#4.xml,bb_G#4-1.png,B-
+bb_A4.xml,bb_A4-1.png,B
+bb_B-4.xml,bb_B-4-1.png,C
+bb_B4.xml,bb_B4-1.png,C#
