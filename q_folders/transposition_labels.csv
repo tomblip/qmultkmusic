@@ -1,0 +1,11 @@
+tonic,clef,start,end,no_notes,difficulty
+C,TrebleClef,C4,G5,1,1
+C,BassClef,F2,C4,1,1
+G,TrebleClef,G3,D6,3,2
+D,TrebleClef,G3,D6,3,2
+F,TrebleClef,G3,D6,3,2
+B-,TrebleClef,G3,D6,3,2
+G,BassClef,B1,F4,3,2
+D,BassClef,B1,F4,3,2
+F,BassClef,B1,F4,3,2
+B-,BassClef,B1,F4,3,2
